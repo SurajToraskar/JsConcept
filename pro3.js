@@ -1,0 +1,14 @@
+let a=-12;
+let x=3.14;
+let y=4.4;
+let z=5.6;
+console.log(`Math.round ${Math.round(x)}`);
+console.log(`Math.floor ${Math.floor(x)}`);
+console.log(`Math.ceil ${Math.ceil(x)}`);
+console.log(`Math.pow ${Math.pow(x,2)}`);
+console.log(`Math.sqrt ${Math.sqrt(x)}`);
+console.log(`Math.max ${Math.max(x,y,z)}`);
+console.log(`Math min ${Math.min(x,y,z)}`);
+console.log(`Math.abs ${Math.abs(a)}`);
+console.log(`Math.PI ${Math.PI}`);
+console.log(`Math.random ${Math.random()*10}`);
